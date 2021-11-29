@@ -8,7 +8,7 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 ## Challenges And Prices -- USD 2,500
 
-### Explorer/Beginner's Bonty -- 5 x USD 700
+### Explorer/Beginner's Bounties -- 5 x USD 700
 
 Use the [fluence js node example](https://github.com/fluencelabs/examples/tree/main/fluence-js-examples/node-example) to wrap and expose a Web3 JS/TS library of your choosing. A valid solution needs to wrap your chosen library/sdk, e.g., ethers js, expose the API to be accessible and composable by Aqua, and provide a demo/testing Aqua script that approximates the library/sdk's testing scope.
 
