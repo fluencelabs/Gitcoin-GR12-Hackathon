@@ -12,7 +12,7 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 Use the [fluence js node example](https://github.com/fluencelabs/examples/tree/main/fluence-js-examples/node-example) to wrap and expose a Web3 JS/TS library of your choosing. A valid solution needs to wrap your chosen library/sdk, e.g., ethers js, expose the API to be accessible and composable by Aqua, and provide a demo/testing Aqua script that approximates the library/sdk's testing scope.
 
-### Intermediate/Advanced Bounties -- USD 2,000
+### Intermediate/Advanced Bounty -- 1 x USD 2,000
 
 * Implement a Fluence service and Aqua workflow to enable interactive signing of arbitrary data, including transactions, with Metamask and a least one other wallet using the EIP712 standard. This challenge requires you to implement the solution as one of more Wasm modules that deploy to the network and to use Aqua to compose the service(s).
 
