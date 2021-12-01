@@ -6,7 +6,7 @@ Welcome to another edition of the Gitcoin hackathon. We are super excited and ar
 
 Fluence provides the infrastructure and tools to enable decentralized compute for applications and backends on peer-to-peer networks. Nodes in the Fluence peer-to-peer network host addressable services comprised of WebAssembly Interface Types (IT) modules. Aqua, Fluence's purpose-built distributed systems programming language, allows developers to seamlessly program distributed networks and compose hosted services into decentralized applications. As a result, the Fluence platform allows you to quickly and effectively create and implement Web3 protocols and associated governance models.
 
-## Challenges And Prices -- USD 2,500
+## Challenges And Prices -- USD 7,500
 
 ### Explorer/Beginner's Bounties -- 5 x USD 700
 
