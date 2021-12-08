@@ -18,7 +18,7 @@ Use the [fluence js node example](https://github.com/fluencelabs/examples/tree/m
 
 * Implement and deploy Wasm IT modules to create, manage or verify Decentralized Identity (DID) or Verifiable Credentials (VC) documents and associated linked data. An implementation using BBS+, see https://w3c-ccg.github.io/ldp-bbs2020/, would score a lot of goodwill. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
 
-### Best Use Of FLuence And Aqua In Your DApp -- 1 x USD 2,000
+### Best Use Of Fluence And Aqua In Your DApp -- 1 x USD 2,000
 
 Examples include:
 
